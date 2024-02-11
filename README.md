@@ -1,4 +1,4 @@
 # gitdemoforvishwa
-this is my first git Repository
+This is my first Git Repository.
 <br>
-Author - Vishwajit Patil.
+Author - Vishwajit Patil
